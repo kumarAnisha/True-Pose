@@ -1,0 +1,4 @@
+![trueposeimg](https://github.com/DivyaAmbawta/TruePoseProject/assets/149582612/aa71c2f8-8896-41df-b59b-8ddbcf54c94e)
+# TruePose
+Welcome to TruePose, your ultimate companion for achieving perfect posture effortlessly. In today's world of prolonged sitting and screen time, maintaining good posture is more crucial than ever. TruePose combines advanced technology with real-time feedback and gentle reminders, guiding you towards optimal posture throughout the day. Experience the added dimension of sound feedback, alerting you when your posture needs correction. Say goodbye to slouching and embrace a more confident, comfortable you. Whether at your desk or on the go, TruePose seamlessly integrates into your routine, offering a simple and effective way to improve your posture. Join us on the journey to a healthier, more aligned life with TruePose – where perfect posture becomes a reality with the added support of sound cues.
+ 
